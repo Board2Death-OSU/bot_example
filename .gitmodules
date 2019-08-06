@@ -1,0 +1,3 @@
+[submodule "lib/Bot_Helper"]
+	path = lib/Bot_Helper
+	url = https://github.com/jklypchak13/Bot_Helper
